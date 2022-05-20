@@ -1,9 +1,7 @@
 ## Hello Zeevo World 👽 
+ 
+Zeevo is a web applicaiton focused on giving creators a new and compelling way to interact and coordinate with their communities and fans.  
 
-At Zeevo, we focus on giving creators a new and compelling way to interact and coordinate with their communities and fans.  
+As of 5/18/2022 we're in alpha test phase and looking for creators, DAOs, and anyone that wants to orgainze fans and community to help test the app. 
 
-We are currently in an alpha testing phase and will be opening up for beta testing in mid-May 2022. 
-
-Our team is lean and focused, and we've been heads-down building since March 2022.   
-
-If you want more info, please DM us [@zeevo_co](https://twitter.com/zeevo_co). 
+Please find us at [Zeevo.co](https://zeevo.co) for more info! 
