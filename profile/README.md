@@ -1,7 +1,5 @@
-## Hello Zeevo World 👽 
+## Hello Zeevo Seekers 👽 
  
-Zeevo is a web applicaiton focused on giving creators a new and compelling way to interact and coordinate with their communities and fans.  
+Zeevo is a web application that enables you to create, customize, and share interactive surveys, questionnaires, games, collections, and more. Respondents are rewarded with customizable proof of participation NFTs. 
 
-As of 5/18/2022 we're in alpha test phase and looking for creators, DAOs, and anyone that wants to orgainze fans and community to help test the app. 
-
-Please find us at [Zeevo.co](https://zeevo.co) for more info! 
+Please see [Zeevo.co](https://zeevo.co) or [linktree](https://linktr.ee/zeevo) for more info ✌️
